@@ -1,0 +1,191 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz"
+#EXTINF:-1 group-title="Армения Телефон Компани",Первый Канал HD
+http://212.73.75.200:8000/play/1ChannelHDRus/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",НТВ Право
+http://212.73.75.200:8000/play/NTVPravo/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",СТС
+http://212.73.75.200:8000/play/CTC/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Nat Geo Wild
+http://212.73.75.200:8000/play/NatGeoWild/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",National Geographic
+http://212.73.75.200:8000/play/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Discovery Science
+http://212.73.75.200:8000/play/DiscoveryScience/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Viasat Explore
+http://212.73.75.200:8000/play/ViasatExplore/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Viasat History
+http://212.73.75.200:8000/play/ViasatHistory/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Viasat Nature
+http://212.73.75.200:8000/play/ViasatNature/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",История
+http://212.73.75.200:8000/play/Istoria/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Моя Планета
+http://212.73.75.200:8000/play/MoyaPlaneta/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Наука 2.0
+http://212.73.75.200:8000/play/Nauka2/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",RTG TV
+http://212.73.75.200:8000/play/RTG/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Дикая Охота HD
+http://212.73.75.200:8000/play/DikayaOxotaHD/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Охота и Рыбалка
+http://212.73.75.200:8000/play/DikiiOxotaiRibalka/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Оружие
+http://212.73.75.200:8000/play/Orujie/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Т24
+http://212.73.75.200:8000/play/T24/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",TV1000
+http://212.73.75.200:8000/play/TV1000/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",TV1000 Русское кино
+http://212.73.75.200:8000/play/TV1000Ru/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",TV1000 Action
+http://212.73.75.200:8000/play/TV1000Action/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",ЕвроКино
+http://212.73.75.200:8000/play/EuroKino/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Иллюзион+
+http://212.73.75.200:8000/play/IllusionPlus/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",КИНОХИТ
+http://212.73.75.200:8000/play/KinoHit/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",НАШЕ НОВОЕ КИНО
+http://212.73.75.200:8000/play/NasheNovoeKino/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",ИНДИЙСКОЕ КИНО
+http://212.73.75.200:8000/play/IndiskoeKino/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",КИНОМИКС HD
+http://212.73.75.200:8000/play/Kinomix/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",КИНОУЖАС
+http://212.73.75.200:8000/play/Kinoujas/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",КИНОСЕМЬЯ
+http://212.73.75.200:8000/play/Kinosemya/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Кинопремьера HD
+http://212.73.75.200:8000/play/KinopremieraHD/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",РОДНОЕ КИНО
+http://212.73.75.200:8000/play/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",.Red
+http://212.73.75.200:8000/play/Red/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",.Black
+http://212.73.75.200:8000/play/Black/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",START World
+http://212.73.75.200:8000/play/STARTWorld/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Start Air
+http://212.73.75.200:8000/play/StartAir/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Русский бестселлер
+http://212.73.75.200:8000/play/RusskiiBesceller/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Русский роман
+http://212.73.75.200:8000/play/RusskiiRoman/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Русский детектив
+http://212.73.75.200:8000/play/RusskiiDetektiv/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Zee TV
+http://212.73.75.200:8000/play/ZeeRussia/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Мир Сериала
+http://212.73.75.200:8000/play/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Дом Кино
+http://212.73.75.200:8000/play/DomKino/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Bollywood
+http://212.73.75.200:8000/play/Bollywood/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Hollywood
+http://212.73.75.200:8000/play/Hollywood/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Перец International
+http://212.73.75.200:8000/play/PerecInternational/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",TV XXI
+http://212.73.75.200:8000/play/XXr/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",FilmBOX
+http://212.73.75.200:8000/play/FilmBox/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Cinema
+http://212.73.75.200:8000/play/Cinema/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Ю
+http://212.73.75.200:8000/play/UTV/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",СТС Love
+http://212.73.75.200:8000/play/STSLove/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",ABTO 24
+http://212.73.75.200:8000/play/Auto24/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Сарафан
+http://212.73.75.200:8000/play/Sarafan/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Ani
+http://212.73.75.200:8000/play/Ani/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Мульт
+http://212.73.75.200:8000/play/Mult/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Бобёр
+http://212.73.75.200:8000/play/Baber/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",TiJi
+http://212.73.75.200:8000/play/Tiji/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Детский мир
+http://212.73.75.200:8000/play/DetskiiMir/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Nick Jr
+http://212.73.75.200:8000/play/NickJr/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Da Vinci
+http://212.73.75.200:8000/play/DaVinchiKids/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Gulli
+http://212.73.75.200:8000/play/Gulli/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",ТНТ Music
+http://212.73.75.200:8000/play/TNTMusic/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Жара
+http://212.73.75.200:8000/play/Jara/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",RU.TV
+http://212.73.75.200:8000/play/RuTV/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Шансон ТВ
+http://212.73.75.200:8000/play/Shanson/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Музыка Первого
+http://212.73.75.200:8000/play/MuzikaPervogo/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",MTV 80s
+http://212.73.75.200:8000/play/MTV80s/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",MuzZone
+http://212.73.75.200:8000/play/Muzzone/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",H1
+http://212.73.75.200:8000/play/H1/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",H2
+http://212.73.75.200:8000/play/H2/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",H1 Lurer
+http://212.73.75.200:8000/play/H1Lurer/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Azatutyun
+http://212.73.75.200:8000/play/Azatutyun/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Armenia TV
+http://212.73.75.200:8000/play/ArmeniaTV/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Shant TV
+http://212.73.75.200:8000/play/Shant/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",ATV
+http://212.73.75.200:8000/play/ATV/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Armnews 24
+http://212.73.75.200:8000/play/Armnews24/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Freenews
+http://212.73.75.200:8000/play/FreeNews/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Nur TV
+http://212.73.75.200:8000/play/NurTV/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",New Armenia
+http://212.73.75.200:8000/play/NewArmenia/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Erkir Media
+http://212.73.75.200:8000/play/ErkirMedia/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Kentron
+http://212.73.75.200:8000/play/Kentron/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",ShoghakatTV
+http://212.73.75.200:8000/play/Shoghakat/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",21TV
+http://212.73.75.200:8000/play/21TV/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",HAYTV
+http://212.73.75.200:8000/play/HayTV/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",TAVATV
+http://212.73.75.200:8000/play/TavaTV/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",XAXALIQ
+http://212.73.75.200:8000/play/XaxaliqTV/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",KINOMAN
+http://212.73.75.200:8000/play/Kinoman/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",FILMZONE
+http://212.73.75.200:8000/play/Filmzone/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",BAZMOC
+http://212.73.75.200:8000/play/Bazmoc/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",FITNES
+http://212.73.75.200:8000/play/Fitness/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Vivaro Arena
+http://212.73.75.200:8000/play/VivaroArena/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Vivaro sport
+http://212.73.75.200:8000/play/VivaroSport/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Vivaro sport +
+http://212.73.75.200:8000/play/VivaroSportPlus/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",МАТЧ! ПЛАНЕТА
+http://212.73.75.200:8000/play/MatchPlaneta/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Матч! Игра
+http://212.73.75.200:8000/play/MatchIgra/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Матч! Страна
+http://212.73.75.200:8000/play/MatchStrana/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",Матч ТВ
+http://212.73.75.200:8000/play/MatchTV/index.m3u8
+#EXTINF:-1 group-title="Армения Телефон Компани",FightBOX
+http://212.73.75.200:8000/play/FlightBox/index.m3u8
